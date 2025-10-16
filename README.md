@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 I'm **Wisdom Dauda**, a passionate developer with 4 years of experience building **exceptional Flutter apps**.
-Currently building at **[Devking Technologies](https://devkings.org)**, where I craft digital experiences that work beautifully.
+ I craft digital experiences that work seamlessly.
 
 I’m fascinated by **UX** - not just designs that look good, but **technologies that adapt to human behavior**.
 I’ve also worked with **React, TypeScript, and pure CSS**, but I believe true engineering goes beyond syntax - it’s about **concept and craft**.
