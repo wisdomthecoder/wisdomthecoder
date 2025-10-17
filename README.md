@@ -35,7 +35,7 @@ When I’m not coding, I’m probably:
 * Designing graphics for my family
 * Watching **BBC documentaries** or reading the news
 * Worshipping my Creator
-* Or on a **digital detox**, just vibing on Windows 🎧
+* Or on a **digital detox** and meditating
 
 ---
 
@@ -44,7 +44,7 @@ When I’m not coding, I’m probably:
 > “Keep it simple. No stress. Just purpose.”
 
 I hate **social media**, **complex living**, and **depression**.
-I love **maths**, **peace**, **good design**, and **smiling in real life** 😄
+I love **maths**, **peace**, **good design**, and **smiling** 😄
 
 ---
 
