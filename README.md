@@ -1,55 +1,17 @@
-<h1 align="center">👋 Hey, I'm Wisdom Dauda</h1>
-<h3 align="center">A Software Engineer from Jos, Nigeria 🇳🇬</h3>
+**✨ Wisdom Dauda — Software Engineer from Jos, Nigeria**
+*Flutter • Golang • React • TypeScript*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wisdomthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="wisdomthecoder" />
-</p>
+**Quick Vibes:**
 
----
+* 💙 Builds clean, smooth **Flutter apps**
+* ⚙️ Plays with **Golang**, **React**, and **TypeScript**
+* 🎓 **CS student @ Unijos** — learning, growing, building
+* 🎨 Loves design, UX, and clean user flows
+* 🧘‍♂️ **Stoic mindset** — calm, focused, unshaken
+* 😌 A **simple, chill guy** who loves peace and purpose
+* 🚀 Always ready to **build, contribute, and learn**
+* 🙏 Worshipper. Thinker. Creator.
 
-### 🚀 About Me
+**Motto:**
 
-I'm **Wisdom Dauda**, a passionate developer with 4 years of experience building **exceptional Flutter apps**.
- I craft digital experiences that work seamlessly.
-
-I’m fascinated by **UX** - not just designs that look good, but **technologies that adapt to human behavior**.
-I’ve also worked with **React, TypeScript, and pure CSS**, but I believe true engineering goes beyond syntax - it’s about **concept and craft**.
-
----
-
-### 🧠 My Tech Journey
-
-* 🦋 Flutter (My main playground)
-* ⚙️ Backend with **Golang** - power I genuinely enjoy
-* 🌐 Frontend with **React + TypeScript**
-* 🖥️ Tasted **Python, C++**, and **Java** through my Computer Science degree at **Unijos**
-* 🎓 Still a proud **3rd-year CS student** - learning never stops
-
----
-
-### 🎨 Outside Code
-
-When I’m not coding, I’m probably:
-
-* Thinking about code anyway 😅
-* Designing graphics for my family
-* Watching **BBC documentaries** or reading the news
-* Worshipping my Creator
-* Or on a **digital detox** and meditating
-
----
-
-### 💬 What I Believe
-
-> “Keep it simple. No stress. Just purpose.”
-
-I hate **social media**, **complex living**, and **depression**.
-I love **maths**, **peace**, **good design**, and **smiling** 😄
-
----
-
-### 📫 Reach Me
-
-**Email:** [codewithwise@gmail.com](mailto:codewithwise@gmail.com)
-
----
+> Keep it simple. No stress. Just purpose.
