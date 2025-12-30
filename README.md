@@ -1,6 +1,6 @@
 **✨ Wisdom Dauda — Software Engineer from Jos, Nigeria**
 <br>
-*Flutter • UX • Golang • React • TypeScript*
+*Flutter • UX • Golang • TypeScript*
 
 **Quick Vibes:**
 
