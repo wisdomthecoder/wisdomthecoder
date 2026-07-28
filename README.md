@@ -1,4 +1,4 @@
-**✨ Wisdom Dauda | Software Engineer @DevKings Jos, Nigeria**
+**Wisdom Dauda | Software Engineer @DevKings Jos, Nigeria**
 
 ```go
 package main
